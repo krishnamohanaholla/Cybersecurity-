@@ -18,7 +18,7 @@ PHISHING
 	Phishing is the practice of sending fraudulent emails that resemble emails from reputable sources. The aim is to steal sensitive data like credit card numbers and login information.
 
 RANSOMWARE
-Ransomware is a type of malicious software. It is designed to extort money by blocking access files or the computer system until the ransom is paid.
+	Ransomware is a type of malicious software. It is designed to extort money by blocking access files or the computer system until the ransom is paid.
 
 MALWARE (Malicious software)
 	Malware is a type of  software designed to gain unauthorised access or to cause damage to a computer.
@@ -41,8 +41,9 @@ WHO IS AN ETHICAL HACKER
 An Ethical Hacker is a skilled professional who has excellent technical knowledge and skills and knows how to identify and exploit vulnerabilities in target systems. He works with the permission of the owners of systems. An ethical Hacker must comply with the rules of the target organization or owner and the law of the land and their aim is to assess the security posture of a target organization/system.
 
 WHAT IS ETHICAL HACKING
-Ethical Hacking sometimes called as Penetration Testing is an act of intruding/penetrating into system or networks to find out threats, vulnerabilities in those systems which a malicious attacker may find and exploit causing loss of data, financial loss or other major damages. The purpose of ethical hacking is to improve the security of the network or systems by fixing the vulnerabilities found during testing. Ethical hackers may use the same methods and tools used by the malicious hackers but with the permission of the authorized person for the purpose of improving the security and defending the systems from attacks by malicious users.
+	Ethical Hacking sometimes called as Penetration Testing is an act of intruding/penetrating into system or networks to find out threats, vulnerabilities in those systems which a malicious attacker may find and exploit causing loss of data, financial loss or other major damages. The purpose of ethical hacking is to improve the security of the network or systems by fixing the vulnerabilities found during testing. Ethical hackers may use the same methods and tools used by the malicious hackers but with the permission of the authorized person for the purpose of improving the security and defending the systems from attacks by malicious users.
 Ethical hackers are expected to report all the vulnerabilities and weakness found during the process to the management.
+
 Types of hackers
 •	White hat hacker
 •	Black hat hacker
@@ -55,6 +56,7 @@ Based on where the work is done Hackers are devided into 3 groups
 1.	Red team
 2.	Purple team
 3.	Blue team
+
 The work done by different groups are
 Red team
 •	Offensive Security
