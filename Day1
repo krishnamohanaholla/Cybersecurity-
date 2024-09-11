@@ -1,2 +1,79 @@
 Cybersecurity internship diary
-Hello,Welcome to my Cybersecurity internship diary.Here iam going to erite about what i learn during my internship program
+Hello, Welcome to my Cybersecurity internship diary. Here I’ am going to write about what I learn during my internship program
+
+CYBERSECURITY AND ETHICAL HACKING
+
+What is Cybersecurity?
+
+	Cybersecurity is a practice of protecting systems, networks and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing or destroying sensitive information.
+Types of Cybersecurity attacks/threats (Top 6)
+•	Phishing
+•	Ransomware
+•	Malware
+•	Social engineering
+•	Man-in-the-Middle Attack
+•	Zero-day attack
+
+PHISHING
+	Phishing is the practice of sending fraudulent emails that resemble emails from reputable sources. The aim is to steal sensitive data like credit card numbers and login information.
+
+RANSOMWARE
+Ransomware is a type of malicious software. It is designed to extort money by blocking access files or the computer system until the ransom is paid.
+
+MALWARE (Malicious software)
+	Malware is a type of  software designed to gain unauthorised access or to cause damage to a computer.
+
+SOCIAL ENGINEERING
+	Social engineering is a manipulation technique that exploits human error to gain private information, access or valuables.
+(USB rubber dicky- a complete example)
+
+MAN-IN-THE-MIDDLE
+	When criminals interrupt the traffic between a two-party transaction.
+
+ZERO DAY ATTACK
+	A zero day is a computer software vulnerability either unknown to those who should be interested in its mitigation or known and without a path to correct it.
+
+WHAT IS HACKING?
+	Hacking is the process of identifying and exploiting weakness in a system or a network to gain unauthorized access to data and system resources.
+It can also be defined as an unauthorized intrusion into the information systems/networks by an attacker by compromising the security. Example of Hacking: Exploiting the weakness of default password to gain access to the data stored inside the system.
+
+WHO IS AN ETHICAL HACKER
+An Ethical Hacker is a skilled professional who has excellent technical knowledge and skills and knows how to identify and exploit vulnerabilities in target systems. He works with the permission of the owners of systems. An ethical Hacker must comply with the rules of the target organization or owner and the law of the land and their aim is to assess the security posture of a target organization/system.
+
+WHAT IS ETHICAL HACKING
+Ethical Hacking sometimes called as Penetration Testing is an act of intruding/penetrating into system or networks to find out threats, vulnerabilities in those systems which a malicious attacker may find and exploit causing loss of data, financial loss or other major damages. The purpose of ethical hacking is to improve the security of the network or systems by fixing the vulnerabilities found during testing. Ethical hackers may use the same methods and tools used by the malicious hackers but with the permission of the authorized person for the purpose of improving the security and defending the systems from attacks by malicious users.
+Ethical hackers are expected to report all the vulnerabilities and weakness found during the process to the management.
+Types of hackers
+•	White hat hacker
+•	Black hat hacker
+•	Grey hat hacker
+•	Red hat hacker
+•	Hacktivist
+•	Script kiddie
+
+Based on where the work is done Hackers are devided into 3 groups
+1.	Red team
+2.	Purple team
+3.	Blue team
+The work done by different groups are
+Red team
+•	Offensive Security
+•	Ethical Hacking
+•	Exploiting vulnerabilities
+•	Penetration Tests
+•	Black Box Testing
+•	Social Engineering
+•	Web App Scanning
+Purple team
+•	Facilitate improvements in detection and defence
+•	Sharpened the skills of Blue and Red team members
+•	Effective for spot-checking systems in larger
+Blue team
+•	Defensive Security
+•	Infrastructure protection
+•	Damage Control
+•	Incident Response (IR)
+•	Operational Security
+•	Threat Hunters
+•	Digital Forensics
+
