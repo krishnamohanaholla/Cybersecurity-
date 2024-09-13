@@ -1,16 +1,24 @@
 VIRTUALIZATION
 	Used to run a virtual machine inside a Host machine. Here no need to dual boot. Using virtual box we can run multiple operating systems depending on the host system capabilities. 
 
-system info  This command is used to identify system information and capabilities
-ISO file  used to download different operating systems
+system info --> This command is used to identify system information and capabilities
+ISO file --> used to download different operating systems
+
 Microsoft AD
-MS Active directory used to identity management, centralized control of resources and network security within organizations. AD stores information about users, computers and other devices on the network and allows administrators to manage permissions and access to resources
-ISP  Internet service provider (This provides an IP Address) The IP address changes by time.
-Scriptity  Having hacking tools but without any programming or fundamental knowledge -> such persons are called as scriptitys
+	MS Active directory used to identity management, centralized control of resources and network security within organizations. AD stores information about users, computers and other devices on the network and allows administrators to manage permissions and access to resources
+ISP --> Internet service provider (This provides an IP Address) The IP address changes by time.
+Scriptity --> Having hacking tools but without any programming or fundamental knowledge -> such persons are called as scriptitys
 Before attacking to a service we have to learn about that service.
 
 In a machine we have different types of terminals. The root of all linux machine is sh (sh terminal). Another one is bash terminal. 
-ssh username@ip_address  used to access the another system.
-sudo systemctl status ssh  this command gives the status of the ssh
-sudo apt-get install openssh-server -y  command to install openssh server 
-sudo used to get permission from the higher power (root) sudo acts as a connunicator b/w user and root.
+ssh username@ip_address --> used to access the another system.
+sudo systemctl status ssh --> this command gives the status of the ssh
+sudo apt-get install openssh-server -y --> command to install openssh server 
+
+sudo --> used to get permission from the higher power (root) sudo acts as a connunicator b/w user and root.
+apt-get --> It is the package manager which holds the entire packages to be installed.
+install --> To install
+openssh-server --> the server to be installed
+-y --> It is used to allow all the permissions ( to allocate memory etc )
+
+RDP protocol --> Remote desktop protocol is a proprietary protocol which provides a user with a graphical interface to connect to another computer over a network connection. The user employs RDP client software for this purpose, while the other computer must run RDP server software
