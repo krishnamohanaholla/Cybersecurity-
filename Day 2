@@ -1,1 +1,42 @@
+PHASES OF HACKING
+
+	There are mainly 5 phases in hacking. Not necessarily a hacker has to follow these 5 steps in a sequential manner. It’s a stepwise process and when followed yields a better result.
+1.	Reconnaisance --> Information Gathering (Collecting information     about the target)
+2.	Scanning      --> Using scanning we are trying to create a report containing the data.
+3.	Gaming Access 
+4.	Maintaining Access
+5.	Clearing tracks 
+
+CLI (Command line interface)
+	Used to some work using commands. Here we are using ubuntu. Normally in a pc terminal works as CLI.
+
+File extensions
+	File extension used to indicate the file format and help the Operating system or application determine how to open or process the file
+
+Basic Linux commands
+•	ls : List directory contents
+•	cd : Change directory
+•	pwd : Print working directory 
+•	mkdir: Make a directory
+•	rmdir: Remove directory
+•	touch: Create a new file
+•	rm: Remove files or directories
+•	cp: Copy files or directories
+•	mv: Move or rename files or directories 
+•	man: Display the user manual
+•	echo: Display a message or data
+•	chmod: Change file permissions
+•	chown: Change file owner and group
+•	ps: Display a list of currently running processes
+•	kill: Kill a process
+•	top: Display system summary and processes
+•	df: Display disk space usage
+•	du: Estimate file and directory space usage
+•	cat: Concatenate and display file content
+•	nano, vi: Text editors
+•	clear: Clear the terminal screen
+•	exit: Exit the terminal
+
+Raspberry pi --> A single board computer
+Ssh --> It is a method for securely sending commands to a computer over an unsecured network. SSH uses cryptography to authenticate and encrypt connections between devices. Basically it is used for communication to a server or another computer etc.
 
