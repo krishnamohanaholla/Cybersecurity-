@@ -1,0 +1,7 @@
+VIRTUALIZATION
+	For virtualization I have downloaded the Oracle VM virtualbox application. From the oracle website we can download it. 
+Inside the virtual box I have downloaded kali linux for my learnings. From the website kali.org I have downloaded kali linux. Kali linux is the OS where we can use the hacking tools for our learnings. 
+The default terminal inside the kali linux will not support multiple terminals. For this feature we should ilstall terminator inside the kali linux. For the installation all the commands are entered in the available default terminal. Before installation we should ensure that our kali is updated.
+To update kali : sudo apt update
+To install terminator : sudo apt-get install terminator
+
