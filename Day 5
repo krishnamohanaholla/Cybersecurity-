@@ -1,0 +1,70 @@
+KALI LINUX
+	Inside the kali linux we can change the general system name, and other non-default settings.
+Network Adaptors
+	The default network adapter inside kali is NAT adaptor
+1.	NAT --> Network address translator
+It is used to translate the host machine network into virtual machine network which allows user to acces internet and other devices in the network. 
+Different network topology’s
+	Network topology refers to the arrangement of different elements (like nodes, links, and devices) in a computer network. The way devices are connected and communicate with each other forms the topology. There are several types of network topologies, each with its own advantages, disadvantages, and use cases.
+1.	Mesh topology --> Two or multiple machines are able to communicate each other through network is called star topology.
+Advantages:
+High fault tolerance, as multiple paths exist for data.
+Robust and reliable network.
+Disadvantages:
+Expensive due to the large number of cables and ports required.
+Complex setup and maintenance.
+Types of Mesh:
+Full Mesh: Every node is directly connected to every other node.
+Partial Mesh: Only some nodes are connected to multiple nodes.
+2.	Bus Topology --> All devices are connected to a single central cable (the "bus").
+Advantages:
+Easy to install and cost-effective for small networks.
+Requires less cable than other topologies.
+Disadvantages:
+A single point of failure (the bus cable).
+Limited cable length and number of devices.
+Data collisions are common, leading to network slowdowns.
+3.	Star topology --> Here all devices are connected through a central hub or switch
+Advantages:
+Easy to manage and expand.
+A failure in one cable won't affect the rest of the network.
+Performance is stable.
+Disadvantages:
+The central hub is a single point of failure.
+More cable is required than in bus topology.
+4.	Ring Topology  Devices are connected in a circular fashion, with each device having exactly two neighbors.
+Advantages:
+Data transmission is relatively simple because the flow is unidirectional.
+No collisions, as data flows in one direction.
+Disadvantages:
+A failure in any cable or device breaks the loop and can bring the entire network down.
+Slower compared to star topology.
+5.	Tree Topology --> A hybrid topology where star networks are connected to a central bus backbone.
+Advantages:
+Scalable and easy to manage.
+Good for hierarchical networks.
+Disadvantages:
+The backbone is a single point of failure.
+Requires more cabling than a bus topology.
+6.	Hybrid Topology --> A combination of two or more different topologies, such as star-ring or star-bus.
+Advantages:
+Can be designed to leverage the strengths of different topologies.
+Flexible and scalable.
+Disadvantages:
+Complex design and installation.
+Expensive to maintain and set up.
+7.	Point-to-Point Topology --> A direct link between two devices.
+Advantages:
+Simple and efficient for direct communication.
+Easy to set up.
+Disadvantages:
+Not scalable beyond two devices.
+8.	Point-to-Multipoint Topology --> A central device connects to multiple devices, but those devices do not connect to each other.
+Advantages:
+Efficient for centralized communication.
+Disadvantages:
+The central device is a single point of failure.
+2.	Host only adaptor
+Here we having a virtual switch which have the DHCP.
+DHCP --> It generates Dynamic address.
+The virtual machine is connected to the virtual switch and through the virtual switch the host machine gets connected. ie the virtual switch acts as the communicator between Host machine and virtual machine.
