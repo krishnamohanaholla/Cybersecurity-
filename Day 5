@@ -67,4 +67,4 @@ The central device is a single point of failure.
 2.	Host only adaptor
 Here we having a virtual switch which have the DHCP.
 DHCP --> It generates Dynamic address.
-The virtual machine is connected to the virtual switch and through the virtual switch the host machine gets connected. ie the virtual switch acts as the communicator between Host machine and virtual machine.
+The virtual machine is connected to the virtual switch and through the virtual switch the host machine gets connected. ie the virtual switch acts as the communicator between Host machine and virtual machine.The host only setup is entirely isolated. No any internet connectivity is happening here. For our learnings One adapter should be NAT adapter and the kali linux Base memory should be 2.5 GB and the core should be 2.
