@@ -67,4 +67,21 @@ The central device is a single point of failure.
 2.	Host only adaptor
 Here we having a virtual switch which have the DHCP.
 DHCP --> It generates Dynamic address.
-The virtual machine is connected to the virtual switch and through the virtual switch the host machine gets connected. ie the virtual switch acts as the communicator between Host machine and virtual machine.The host only setup is entirely isolated. No any internet connectivity is happening here. For our learnings One adapter should be NAT adapter and the kali linux Base memory should be 2.5 GB and the core should be 2.
+The virtual machine is connected to the virtual switch and through the virtual switch the host machine gets connected. ie the virtual switch acts as the communicator between Host machine and virtual machine.The host only setup is entirely isolated. No any internet connectivity is happening here. For our learnings One adapter should be NAT adapter and the kali linux Base memory should be 2.5 GB and the core should be 2.Here we can add more machines also.
+chmod -->( Change mode )
+	used to identify or manipulate the file permissions
+r --> Read permission
+w --> Write permission
+x --> Execute permission
+#   Permission                   rwx
+0   None                         000
+1   Execute only                 001
+2   Write only                   010
+3   Write and execute            011
+4   Read only                    100
+5   Read and execute             101
+6   Read and write               110
+7   Read, write and execute      111
+To change the permissions --> ( ls -lh  # filename )format should be used
+Example -->  ls -lh 701 filename
+
