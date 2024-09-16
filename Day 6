@@ -1,0 +1,7 @@
+Port forwarding
+	TCP and UDP
+TCP  Transmission control protocol
+UDP  User datagram protocol
+	There is a list of TCP and UDP port numbers used by protocols for operation of network applications. The internet assigned numbers authority (IANA) is responsible for maintaining the official assignments of port numbers for specific uses.
+In the network there are 65535 ports are available. All ports are mentioned for an individual activity. In cybersecurity port number is required for identifying the different services assigned for different port numbers. 
+ngrok for portforwarding
